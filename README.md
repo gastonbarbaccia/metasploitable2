@@ -1,0 +1,1 @@
+# Instalación de Metasploitable2 dockerizado
